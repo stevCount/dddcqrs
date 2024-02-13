@@ -9,9 +9,12 @@
 
 #### Paso 3: Importar la base de datos y realizar inserts ######
 
-#### NOTA: se realiza ejemplo de inserciones tipo CRUD via Url controlador, Modelo y se configura para posibilidad de usos ####3
+#### NOTA: se realiza ejemplo de inserciones tipo CRUD via Url controlador, Modelo y se configura para posibilidad de usos ####
 ###### API REST ######
 
 
 ###### PATRON MVC, DDD Y usos de CQRS en PHP nativo #######
 ###### /* Copyright© Jhon S. Vique */ #######
+
+##### NOTA: Configurar en nombre del proyecto como DDD-CQRS #### 
+##### De lo contrario configurar el archivo public\.htaccess Line:4 Con el nombre del sitio y el .env ##########
